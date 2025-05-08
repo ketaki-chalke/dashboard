@@ -1,0 +1,24 @@
+# Node modules for React frontend
+frontend/node_modules/
+
+# Build directories for React (after running `npm run build`)
+frontend/build/
+
+# Python virtual environment
+backend/kenv/
+
+# Environment variables (sensitive data)
+backend/.env
+
+# Logs
+*.log
+
+# OS-generated files (Windows)
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Python cache files
+__pycache__/
+
