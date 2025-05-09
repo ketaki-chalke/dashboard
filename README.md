@@ -1,4 +1,4 @@
-# 📡 Server Monitoring System
+# 📡 Server Monitoring Dashboard
 
 ## 🛠 Tech Stack
 
